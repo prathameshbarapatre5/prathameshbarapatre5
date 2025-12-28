@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Prathmesh Barapatre, a Mechatronics Engineer and Space Ambassador for an International Non-Profit Organization. I am currently serving as the President of the National Space Society (USA) - Mumbai Chapter.
+- 👋 Hello, I'm Prathmesh Barapatre, a Robotics Engineer with BE in Mechatronics Engineering, Space Ambassador for an International Non-Profit Organization. I am currently serving as the President of the National Space Society (USA) - Mumbai Chapter (www.nss-mumbai.org).
 - 👀 I have a keen interest in Space Robotics, AI for Space Exploration, Astronomy (Gravitational Waves), Astrophysics, and Quantum Physics.
 - 🌱 Currently, I am focusing on learning Artificial Intelligence and Robotics.
 - 💞️ I am actively seeking collaboration opportunities to work on AI-based hardware implementation projects.
