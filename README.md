@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Prathmesh Barapatre
 
-**Robotics Engineer | Space Ambassador | AI & Computer Vision Researcher**
+**Robotics Engineer | Space Ambassador | Robotics & Space Researcher**
 
-I am a Mechatronics Engineer passionate about bridging the gap between hardware and intelligence for the next frontier of exploration. Currently, I am advancing my expertise in AI and Robotics, with a specific focus on how machines "see" and interact with extreme environments.
+I am a Robotics Engineer passionate about bridging the gap between hardware and intelligence for the next frontier of exploration. Currently, I am advancing my expertise in AI and Robotics, with a specific focus on how machines "see" and interact with extreme environments.
 
 ---
 
