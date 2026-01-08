@@ -33,7 +33,9 @@ I am actively seeking **collaboration opportunities** for AI-based hardware impl
 
 ### 📫 Connect with Me
 * **Email:** 
+
 For collaboration on projects: [prathmesh.barapatre@outlook.com](mailto:prathmesh.barapatre@outlook.com)
+
 Reaching out for National Space Society (USA) - Mumbai: [prathmesh@nss-mumbai.org](mailto:prathmesh@nss-mumbai.org)
 * **LinkedIn:** [https://www.linkedin.com/in/prathmesh-barapatre/]
 * **Portfolio:** [https://prathameshbarapatre5.github.io/Portfolio2/]
