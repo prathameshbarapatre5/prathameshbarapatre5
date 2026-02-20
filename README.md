@@ -25,7 +25,7 @@ I am a Robotics Engineer passionate about bridging the gap between hardware and 
 * **Robotics:** ROS (Robot Operating System), Mechatronics Design, Hardware-Software Integration
 * **Space Science:** Orbital Mechanics, Mission Design
 
-### 💞️ Collaboration
+### Collaboration
 I am actively seeking **collaboration opportunities** for AI-based hardware implementations, specifically projects involving:
 * Edge AI on robotic platforms.
 * Computer Vision for autonomous rovers/drones.
